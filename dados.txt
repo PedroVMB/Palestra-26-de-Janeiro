@@ -1,0 +1,3 @@
+Nome do Material: bloco
+Tipo do Material: Unidade
+Quantidade do Material: 500
